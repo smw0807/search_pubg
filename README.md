@@ -1,15 +1,7 @@
-# search_pubg
-목표 : 배그 전적 검색 및 각종 정보 제공
-## 사용할 프레임워크
-Vite와 Vue3 그리고 디자인프레임워크로 quasar를 이용해 제작 예정
-## DataBase
-firebase나 mongodb를 이용한 데이터 저장
-## 만들 기능
-1. 카카오배그, 스팀 전적 검색
-2. 검색한 유저 즐겨찾기
-3. 자유게시판 (자체 회원가입 또는 구글, 카카오 로그인 기능을 적용해볼 예정)
-4. 경쟁전 차량 고정 스폰 맵
-5. 맵 비행기 경로 표기 기능
-6. 장비에 따른 아이템을 미리 넣어보는 기능(예: 2갑 2가방일 때 아이템을 얼마나 담을 수 있는지?)
-## 목표 기간
-9월말까지
+# Vue 3 + Vite
+
+This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+
+## Recommended IDE Setup
+
+- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
